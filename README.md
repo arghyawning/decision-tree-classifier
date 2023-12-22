@@ -23,7 +23,7 @@ For this you are allowed to use the inbuilt sklearn decision tree. Note you are 
 3. data featurization
 4. train val test splitting
 
-**Powerset Formulation**
+<u>Powerset Formulation</u>
 
 Top 3 hyperparameters (according to F1 score (macro)):
 
@@ -40,4 +40,4 @@ Top 3 hyperparameters (according to F1 score (macro)):
   'max_features': 9,
   'f1': 0.010721308971495121}
 
-**Multi-output Formulation**
+<u>Multi-output Formulation</u>
